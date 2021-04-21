@@ -1,0 +1,10 @@
+#
+# This is a requirements file to run git repository on binder
+#
+#    pip-compile
+#
+
+matplotlib == 3.2.1
+numpy == 1.18.5
+scipy == 1.4.1     
+         
